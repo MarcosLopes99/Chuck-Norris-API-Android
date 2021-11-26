@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MarcosLopes_RM82813</string>
+    <string name="text_joke">Want to see something funny?\nTap the button below!</string>
+    <string name="random">Random</string>
+    <string name="joke_not_found">Joke not found</string>
+</resources>

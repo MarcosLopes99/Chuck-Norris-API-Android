@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MarcosLopes_RM82813</string>
+    <string name="text_joke">Quer ver algo engraçado?\nToque no botão abaixo!</string>
+    <string name="random">Random</string>
+    <string name="joke_not_found">Piada não encontrada</string>
+</resources>
